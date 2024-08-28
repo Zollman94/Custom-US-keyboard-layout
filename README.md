@@ -1,12 +1,13 @@
 # My custom US - Czech Layout for keyboard.
-I got tired of constantly switching between czech and us leyout when i do programming but need to keep commenting in my native lenguage so i came with my own layout for czech programmers. Maybe someone will use it but i have this repo public so i don't have to login when i need to download to new machine. Bellow are screens of buttons layout. 
 
-### Install
-- Download repo as zip file
-- Extract it
-- Run `setup.exe`
-- Change layout in settings > Time & Language > Language & Regions
-- Enjoy
+I have created a custom keyboard layout for programmers who frequently switch between English and Czech. This layout allows for easy commenting in Czech while maintaining the convenience of the US layout for programming.
+
+## Installation:
+
+1. Download the repository as a zip file.
+2. Extract the contents of the zip file.
+3. Run the `setup.exe` file.
+4. Change the keyboard layout in the Windows settings under Time & Language > Language & Regions.
 
 ### Basic
 ![normal](https://github.com/user-attachments/assets/afbd285e-2d1a-4f2e-8266-51af02d40f43)
