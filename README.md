@@ -4,8 +4,10 @@ I have created a custom keyboard layout for programmers who frequently switch be
 
 ## Installation:
 
-1. Download the repository as a zip file.
-2. Extract the contents of the zip file.
+1. Clone the repository.
+   ```console
+     git clone https://github.com/Zollman94/Custom-US-keyboard-layout.git
+   ```
 3. Run the `setup.exe` file.
 4. Change the keyboard layout in the Windows settings under Time & Language > Language & Regions.
 
